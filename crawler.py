@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
+# simple change
 def book_spider(max_pages):
     page = 1
     while page <= max_pages:
